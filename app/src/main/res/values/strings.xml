@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">MyTourAppSaumur</string>
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for monuments [CHAR LIMIT=20] -->
+    <string name="category_monuments">Monuments</string>
+
+    <!-- Category name for sports [CHAR LIMIT=20] -->
+    <string name="category_sports">Sports</string>
+
+    <!-- Category name for wineyards [CHAR LIMIT=20] -->
+    <string name="category_wineyards">Wineyards</string>
+
+    <!-- Name for restaurant 1 [CHAR LIMIT=20] -->
+    <string name="name_restaurant_1">Name Resto 1</string>
+    <!-- Name for restaurant 2 [CHAR LIMIT=20] -->
+    <string name="name_restaurant_2">Name Resto 2</string>
+    <!-- Name for restaurant 3 [CHAR LIMIT=20] -->
+    <string name="name_restaurant_3">Name Resto 3</string>
+    <!-- Name for restaurant 4 [CHAR LIMIT=20] -->
+    <string name="name_restaurant_4">Name Resto 4</string>
+
+    <!-- Address for restaurant 1 [CHAR LIMIT=20] -->
+    <string name="address_restaurant_1">Address Resto 1</string>
+    <!-- Address for restaurant 2 [CHAR LIMIT=20] -->
+    <string name="address_restaurant_2">Address Resto 2</string>
+    <!-- Address for restaurant 3 [CHAR LIMIT=20] -->
+    <string name="address_restaurant_3">Address Resto 3</string>
+    <!-- Address for restaurant 4 [CHAR LIMIT=20] -->
+    <string name="address_restaurant_4">Address Resto 4</string>
+
+    <!-- Description for restaurant 1 [CHAR LIMIT=20] -->
+    <string name="description_restaurant_1">Description Resto 1</string>
+    <!-- Description for restaurant 2 [CHAR LIMIT=20] -->
+    <string name="description_restaurant_2">Description Resto 2</string>
+    <!-- Description for restaurant 3 [CHAR LIMIT=20] -->
+    <string name="description_restaurant_3">Description Resto 3</string>
+    <!-- Description for restaurant 4 [CHAR LIMIT=20] -->
+    <string name="description_restaurant_4">Description Resto 4</string>
+
+    <!-- Name for monument 1 [CHAR LIMIT=20] -->
+    <string name="name_monument_1">Name monument 1</string>
+    <!-- Name for monument 2 [CHAR LIMIT=20] -->
+    <string name="name_monument_2">Name monument 2</string>
+    <!-- Name for monument 3 [CHAR LIMIT=20] -->
+    <string name="name_monument_3">Name monument 3</string>
+    <!-- Name for monument 4 [CHAR LIMIT=20] -->
+    <string name="name_monument_4">Name monument 4</string>
+
+    <!-- Address for monument 1 [CHAR LIMIT=20] -->
+    <string name="address_monument_1">Address monument 1</string>
+    <!-- Address for monument 2 [CHAR LIMIT=20] -->
+    <string name="address_monument_2">Address monument 2</string>
+    <!-- Address for monument 3 [CHAR LIMIT=20] -->
+    <string name="address_monument_3">Address monument 3</string>
+    <!-- Address for monument 4 [CHAR LIMIT=20] -->
+    <string name="address_monument_4">Address monument 4</string>
+
+    <!-- Description for monument 1 [CHAR LIMIT=20] -->
+    <string name="description_monument_1">Description monument 1</string>
+    <!-- Description for monument 2 [CHAR LIMIT=20] -->
+    <string name="description_monument_2">Description monument 2</string>
+    <!-- Description for monument 3 [CHAR LIMIT=20] -->
+    <string name="description_monument_3">Description monument 3</string>
+    <!-- Description for monument 4 [CHAR LIMIT=20] -->
+    <string name="description_monument_4">Description monument 4</string>
+
+    <!-- Name for sport 1 [CHAR LIMIT=20] -->
+    <string name="name_sport_1">Name sport 1</string>
+    <!-- Name for sport 2 [CHAR LIMIT=20] -->
+    <string name="name_sport_2">Name sport 2</string>
+    <!-- Name for sport 3 [CHAR LIMIT=20] -->
+    <string name="name_sport_3">Name sport 3</string>
+    <!-- Name for sport 4 [CHAR LIMIT=20] -->
+    <string name="name_sport_4">Name sport 4</string>
+
+    <!-- Address for sport 1 [CHAR LIMIT=20] -->
+    <string name="address_sport_1">Address sport 1</string>
+    <!-- Address for sport 2 [CHAR LIMIT=20] -->
+    <string name="address_sport_2">Address sport 2</string>
+    <!-- Address for sport 3 [CHAR LIMIT=20] -->
+    <string name="address_sport_3">Address sport 3</string>
+    <!-- Address for sport 4 [CHAR LIMIT=20] -->
+    <string name="address_sport_4">Address sport 4</string>
+
+    <!-- Description for sport 1 [CHAR LIMIT=20] -->
+    <string name="description_sport_1">Description sport 1</string>
+    <!-- Description for sport 2 [CHAR LIMIT=20] -->
+    <string name="description_sport_2">Description sport 2</string>
+    <!-- Description for sport 3 [CHAR LIMIT=20] -->
+    <string name="description_sport_3">Description sport 3</string>
+    <!-- Description for sport 4 [CHAR LIMIT=20] -->
+    <string name="description_sport_4">Description sport 4</string>
+
+    <!-- Name for wineyard 1 [CHAR LIMIT=20] -->
+    <string name="name_wineyard_1">Name wineyard 1</string>
+    <!-- Name for wineyard 2 [CHAR LIMIT=20] -->
+    <string name="name_wineyard_2">Name wineyard 2</string>
+    <!-- Name for wineyard 3 [CHAR LIMIT=20] -->
+    <string name="name_wineyard_3">Name wineyard 3</string>
+    <!-- Name for wineyard 4 [CHAR LIMIT=20] -->
+    <string name="name_wineyard_4">Name wineyard 4</string>
+
+    <!-- Address for wineyard 1 [CHAR LIMIT=20] -->
+    <string name="address_wineyard_1">Address wineyard 1</string>
+    <!-- Address for wineyard 2 [CHAR LIMIT=20] -->
+    <string name="address_wineyard_2">Address wineyard 2</string>
+    <!-- Address for wineyard 3 [CHAR LIMIT=20] -->
+    <string name="address_wineyard_3">Address wineyard 3</string>
+    <!-- Address for wineyard 4 [CHAR LIMIT=20] -->
+    <string name="address_wineyard_4">Address wineyard 4</string>
+
+    <!-- Description for wineyard 1 [CHAR LIMIT=20] -->
+    <string name="description_wineyard_1">Description wineyard 1</string>
+    <!-- Description for wineyard 2 [CHAR LIMIT=20] -->
+    <string name="description_wineyard_2">Description wineyard 2</string>
+    <!-- Description for sport 3 [CHAR LIMIT=20] -->
+    <string name="description_wineyard_3">Description wineyard 3</string>
+    <!-- Description for sport 4 [CHAR LIMIT=20] -->
+    <string name="description_wineyard_4">Description wineyard 4</string>
+</resources>
