@@ -11,10 +11,10 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 /**
- * {@link Fragment} that displays a list of wineyards sites.
+ * {@link Fragment} that displays a list of parks sites.
  */
-public class WineyardsFragment extends Fragment {
-    public WineyardsFragment() {
+public class ParksFragment extends Fragment {
+    public ParksFragment() {
         // Required empty public constructor
     }
 
@@ -25,13 +25,13 @@ public class WineyardsFragment extends Fragment {
 
         // Create a list of sites
         final ArrayList<Site> sites = new ArrayList<Site>();
-        sites.add(new Site(R.string.name_wineyard_1, R.string.address_wineyard_1, R.string.description_wineyard_1,
+        sites.add(new Site(R.string.name_parks_1, R.string.address_parks_1, R.string.description_parks_1,
                 R.drawable.placeholder));
-        sites.add(new Site(R.string.name_wineyard_2, R.string.address_wineyard_2, R.string.description_wineyard_2,
+        sites.add(new Site(R.string.name_parks_2, R.string.address_parks_2, R.string.description_parks_2,
                 R.drawable.placeholder));
-        sites.add(new Site(R.string.name_wineyard_3, R.string.address_wineyard_3, R.string.description_wineyard_3,
+        sites.add(new Site(R.string.name_parks_3, R.string.address_parks_3, R.string.description_parks_3,
                 R.drawable.placeholder));
-        sites.add(new Site(R.string.name_wineyard_4, R.string.address_wineyard_4, R.string.description_wineyard_4,
+        sites.add(new Site(R.string.name_parks_4, R.string.address_parks_4, R.string.description_parks_4,
                 R.drawable.placeholder));
 
         // Create an {@link SiteAdapter}, whose data source is a list of {@link Site}s. The

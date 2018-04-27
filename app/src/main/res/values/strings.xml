@@ -2,121 +2,152 @@
     <string name="app_name">Angers Tour App</string>
     <!-- Category name for monuments [CHAR LIMIT=20] -->
     <string name="category_monuments">Monuments</string>
-    
+
     <!-- Category name for restaurants [CHAR LIMIT=20] -->
     <string name="category_restaurants">Eating</string>
 
     <!-- Category name for sports [CHAR LIMIT=20] -->
     <string name="category_sports">Sports</string>
 
-    <!-- Category name for wineyards [CHAR LIMIT=20] -->
-    <string name="category_wineyards">Wineyards</string>
+    <!-- Category name for parks [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
 
-    <!-- Name for restaurant 1 [CHAR LIMIT=20] -->
+    <!-- Name for restaurant 1 -->
     <string name="name_restaurant_1">Name Resto 1</string>
-    <!-- Name for restaurant 2 [CHAR LIMIT=20] -->
+    <!-- Name for restaurant 2 -->
     <string name="name_restaurant_2">Name Resto 2</string>
-    <!-- Name for restaurant 3 [CHAR LIMIT=20] -->
+    <!-- Name for restaurant 3 -->
     <string name="name_restaurant_3">Name Resto 3</string>
-    <!-- Name for restaurant 4 [CHAR LIMIT=20] -->
+    <!-- Name for restaurant 4 -->
     <string name="name_restaurant_4">Name Resto 4</string>
 
-    <!-- Address for restaurant 1 [CHAR LIMIT=20] -->
+    <!-- Address for restaurant 1 -->
     <string name="address_restaurant_1">Address Resto 1</string>
-    <!-- Address for restaurant 2 [CHAR LIMIT=20] -->
+    <!-- Address for restaurant 2 -->
     <string name="address_restaurant_2">Address Resto 2</string>
-    <!-- Address for restaurant 3 [CHAR LIMIT=20] -->
+    <!-- Address for restaurant 3 -->
     <string name="address_restaurant_3">Address Resto 3</string>
-    <!-- Address for restaurant 4 [CHAR LIMIT=20] -->
+    <!-- Address for restaurant 4 -->
     <string name="address_restaurant_4">Address Resto 4</string>
 
-    <!-- Description for restaurant 1 [CHAR LIMIT=20] -->
+    <!-- Description for restaurant 1 -->
     <string name="description_restaurant_1">Description Resto 1</string>
-    <!-- Description for restaurant 2 [CHAR LIMIT=20] -->
+    <!-- Description for restaurant 2 -->
     <string name="description_restaurant_2">Description Resto 2</string>
-    <!-- Description for restaurant 3 [CHAR LIMIT=20] -->
+    <!-- Description for restaurant 3 -->
     <string name="description_restaurant_3">Description Resto 3</string>
-    <!-- Description for restaurant 4 [CHAR LIMIT=20] -->
+    <!-- Description for restaurant 4 -->
     <string name="description_restaurant_4">Description Resto 4</string>
 
-    <!-- Name for monument 1 [CHAR LIMIT=20] -->
-    <string name="name_monument_1">Name monument 1</string>
-    <!-- Name for monument 2 [CHAR LIMIT=20] -->
-    <string name="name_monument_2">Name monument 2</string>
-    <!-- Name for monument 3 [CHAR LIMIT=20] -->
-    <string name="name_monument_3">Name monument 3</string>
-    <!-- Name for monument 4 [CHAR LIMIT=20] -->
-    <string name="name_monument_4">Name monument 4</string>
+    <!-- Name for monument 1  -->
+    <string name="name_monument_1">Angers Castle</string>
+    <!-- Name for monument 2 -->
+    <string name="name_monument_2">St Maurice Cathedral</string>
+    <!-- Name for monument 3 -->
+    <string name="name_monument_3">Jean Lurçat Museum</string>
+    <!-- Name for monument 4 -->
+    <string name="name_monument_4">Adam house</string>
+    <!-- Name for monument 5 -->
+    <string name="name_monument_5">Génie Museum</string>
+    <!-- Name for monument 6 -->
+    <string name="name_monument_6">Fine Arts Museum</string>
+    <!-- Name for monument 7 -->
+    <string name="name_monument_7">Museum of Natural History</string>
+    <!-- Name for monument 8 -->
+    <string name="name_monument_8">Pincé Museum</string>
+    <!-- Name for monument 9 -->
+    <string name="name_monument_9">David d'Angers Museum</string>
 
-    <!-- Address for monument 1 [CHAR LIMIT=20] -->
-    <string name="address_monument_1">Address monument 1</string>
-    <!-- Address for monument 2 [CHAR LIMIT=20] -->
-    <string name="address_monument_2">Address monument 2</string>
-    <!-- Address for monument 3 [CHAR LIMIT=20] -->
-    <string name="address_monument_3">Address monument 3</string>
-    <!-- Address for monument 4 [CHAR LIMIT=20] -->
-    <string name="address_monument_4">Address monument 4</string>
+    <!-- Address for monument 1 -->
+    <string name="address_monument_1">2 Promenade du Bout du Monde, 49100 Angers</string>
+    <!-- Address for monument 2 -->
+    <string name="address_monument_2">4 Rue Saint-Christophe, 49100 Angers</string>
+    <!-- Address for monument 3 -->
+    <string name="address_monument_3">4 Boulevard Arago, 49100 Angers</string>
+    <!-- Address for monument 4 -->
+    <string name="address_monument_4">1 Place Sainte-Croix, 49100 Angers</string>
+    <!-- Address for monument 5 -->
+    <string name="address_monument_5">106 Rue Eblé, 49000 Angers</string>
+    <!-- Address for monument 6 -->
+    <string name="address_monument_6">14 Rue du Musée, 49100 Angers</string>
+    <!-- Address for monument 7 -->
+    <string name="address_monument_7">43 Rue Jules Guitton, 49100 Angers</string>
+    <!-- Address for monument 8 -->
+    <string name="address_monument_8">4 Rue Saint-Christophe, 49100 Angers</string>
+    <!-- Address for monument 9 -->
+    <string name="address_monument_9">33Bis Rue Toussaint, 49100 Angers</string>
 
-    <!-- Description for monument 1 [CHAR LIMIT=20] -->
-    <string name="description_monument_1">Description monument 1</string>
-    <!-- Description for monument 2 [CHAR LIMIT=20] -->
-    <string name="description_monument_2">Description monument 2</string>
-    <!-- Description for monument 3 [CHAR LIMIT=20] -->
-    <string name="description_monument_3">Description monument 3</string>
-    <!-- Description for monument 4 [CHAR LIMIT=20] -->
-    <string name="description_monument_4">Description monument 4</string>
 
-    <!-- Name for sport 1 [CHAR LIMIT=20] -->
+    <!-- Description for monument 1 -->
+    <string name="description_monument_1">IXth century fortress</string>
+    <!-- Description for monument 2 -->
+    <string name="description_monument_2">Catholic cathedral XIst/XIInd century</string>
+    <!-- Description for monument 3 -->
+    <string name="description_monument_3">Museum of contemporary tapestry</string>
+    <!-- Description for monument 4 -->
+    <string name="description_monument_4">Ancient house and art workshop</string>
+    <!-- Description for monument 5 -->
+    <string name="description_monument_5">Military museum</string>
+    <!-- Description for monument 6 -->
+    <string name="description_monument_6">Angers history and living in the XVth century</string>
+    <!-- Description for monument 7 -->
+    <string name="description_monument_7">Animals collections and french garden</string>
+    <!-- Description for monument 8 -->
+    <string name="description_monument_8">Neo-gothic house and egyptian collections</string>
+    <!-- Description for monument 9 -->
+    <string name="description_monument_9">Museum of sculpture in a chapel</string>
+
+    <!-- Name for sport 1 -->
     <string name="name_sport_1">Name sport 1</string>
-    <!-- Name for sport 2 [CHAR LIMIT=20] -->
+    <!-- Name for sport 2 -->
     <string name="name_sport_2">Name sport 2</string>
-    <!-- Name for sport 3 [CHAR LIMIT=20] -->
+    <!-- Name for sport 3 -->
     <string name="name_sport_3">Name sport 3</string>
-    <!-- Name for sport 4 [CHAR LIMIT=20] -->
+    <!-- Name for sport 4 -->
     <string name="name_sport_4">Name sport 4</string>
 
-    <!-- Address for sport 1 [CHAR LIMIT=20] -->
+    <!-- Address for sport 1 -->
     <string name="address_sport_1">Address sport 1</string>
-    <!-- Address for sport 2 [CHAR LIMIT=20] -->
+    <!-- Address for sport 2 -->
     <string name="address_sport_2">Address sport 2</string>
-    <!-- Address for sport 3 [CHAR LIMIT=20] -->
+    <!-- Address for sport 3 -->
     <string name="address_sport_3">Address sport 3</string>
-    <!-- Address for sport 4 [CHAR LIMIT=20] -->
+    <!-- Address for sport 4 -->
     <string name="address_sport_4">Address sport 4</string>
 
-    <!-- Description for sport 1 [CHAR LIMIT=20] -->
+    <!-- Description for sport 1 -->
     <string name="description_sport_1">Description sport 1</string>
-    <!-- Description for sport 2 [CHAR LIMIT=20] -->
+    <!-- Description for sport 2 -->
     <string name="description_sport_2">Description sport 2</string>
-    <!-- Description for sport 3 [CHAR LIMIT=20] -->
+    <!-- Description for sport 3 -->
     <string name="description_sport_3">Description sport 3</string>
-    <!-- Description for sport 4 [CHAR LIMIT=20] -->
+    <!-- Description for sport 4 -->
     <string name="description_sport_4">Description sport 4</string>
 
-    <!-- Name for wineyard 1 [CHAR LIMIT=20] -->
-    <string name="name_wineyard_1">Name wineyard 1</string>
-    <!-- Name for wineyard 2 [CHAR LIMIT=20] -->
-    <string name="name_wineyard_2">Name wineyard 2</string>
-    <!-- Name for wineyard 3 [CHAR LIMIT=20] -->
-    <string name="name_wineyard_3">Name wineyard 3</string>
-    <!-- Name for wineyard 4 [CHAR LIMIT=20] -->
-    <string name="name_wineyard_4">Name wineyard 4</string>
+    <!-- Name for parks 1 -->
+    <string name="name_parks_1">Name parks 1</string>
+    <!-- Name for parks 2 -->
+    <string name="name_parks_2">Name parks 2</string>
+    <!-- Name for parks 3 -->
+    <string name="name_parks_3">Name parks 3</string>
+    <!-- Name for parks 4 -->
+    <string name="name_parks_4">Name parks 4</string>
 
-    <!-- Address for wineyard 1 [CHAR LIMIT=20] -->
-    <string name="address_wineyard_1">Address wineyard 1</string>
-    <!-- Address for wineyard 2 [CHAR LIMIT=20] -->
-    <string name="address_wineyard_2">Address wineyard 2</string>
-    <!-- Address for wineyard 3 [CHAR LIMIT=20] -->
-    <string name="address_wineyard_3">Address wineyard 3</string>
-    <!-- Address for wineyard 4 [CHAR LIMIT=20] -->
-    <string name="address_wineyard_4">Address wineyard 4</string>
+    <!-- Address for parks 1 -->
+    <string name="address_parks_1">Address parks 1</string>
+    <!-- Address for parks 2 -->
+    <string name="address_parks_2">Address parks 2</string>
+    <!-- Address for parks 3 -->
+    <string name="address_parks_3">Address parks 3</string>
+    <!-- Address for parks 4 -->
+    <string name="address_parks_4">Address parks 4</string>
 
-    <!-- Description for wineyard 1 [CHAR LIMIT=20] -->
-    <string name="description_wineyard_1">Description wineyard 1</string>
-    <!-- Description for wineyard 2 [CHAR LIMIT=20] -->
-    <string name="description_wineyard_2">Description wineyard 2</string>
-    <!-- Description for sport 3 [CHAR LIMIT=20] -->
-    <string name="description_wineyard_3">Description wineyard 3</string>
-    <!-- Description for sport 4 [CHAR LIMIT=20] -->
-    <string name="description_wineyard_4">Description wineyard 4</string>
+    <!-- Description for parks 1 -->
+    <string name="description_parks_1">Description parks 1</string>
+    <!-- Description for parks 2 -->
+    <string name="description_parks_2">Description parks 2</string>
+    <!-- Description for sport 3 -->
+    <string name="description_parks_3">Description parks 3</string>
+    <!-- Description for sport 4 -->
+    <string name="description_parks_4">Description parks 4</string>
 </resources>

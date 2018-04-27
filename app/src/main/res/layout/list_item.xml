@@ -10,7 +10,7 @@
         android:id="@+id/image"
         android:layout_width="@dimen/list_item_height"
         android:layout_height="@dimen/list_item_height"
-        android:layout_margin="@dimen/photomargin"/>
+        android:layout_margin="@dimen/photomargin" />
 
     <RelativeLayout
         android:id="@+id/text_container"
@@ -25,34 +25,34 @@
 
         <TextView
             android:id="@+id/site_name_text_view"
+            style="@style/titlestyle"
             android:layout_width="match_parent"
             android:layout_height="35dp"
             android:layout_weight="1"
             android:gravity="bottom"
             android:textAppearance="?android:textAppearanceMedium"
-            style="@style/titlestyle"
             tools:text="site" />
 
         <TextView
             android:id="@+id/site_address_text_view"
+            style="@style/itemstyle"
             android:layout_width="match_parent"
             android:layout_height="25dp"
             android:layout_below="@id/site_name_text_view"
             android:layout_weight="1"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"
-            style="@style/itemstyle"
             tools:text="address" />
 
         <TextView
             android:id="@+id/site_description_text_view"
+            style="@style/itemstyle"
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:layout_below="@id/site_address_text_view"
             android:layout_weight="1"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"
-            style="@style/itemstyle"
             tools:text="description" />
     </RelativeLayout>
 </RelativeLayout>

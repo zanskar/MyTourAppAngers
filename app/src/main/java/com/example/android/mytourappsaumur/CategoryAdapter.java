@@ -40,7 +40,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         } else if (position == 2) {
             return new SportsFragment();
         } else {
-            return new WineyardsFragment();
+            return new ParksFragment();
         }
     }
 
@@ -61,7 +61,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         } else if (position == 2) {
             return mContext.getString(R.string.category_sports);
         } else {
-            return mContext.getString(R.string.category_wineyards);
+            return mContext.getString(R.string.category_parks);
         }
     }
 }
