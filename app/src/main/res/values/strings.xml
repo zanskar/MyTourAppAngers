@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">MyTourAppSaumur</string>
-    <!-- Category name for restaurants [CHAR LIMIT=20] -->
-    <string name="category_restaurants">Restaurants</string>
-
+    <string name="app_name">Angers Tour App</string>
     <!-- Category name for monuments [CHAR LIMIT=20] -->
     <string name="category_monuments">Monuments</string>
+    
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Eating</string>
 
     <!-- Category name for sports [CHAR LIMIT=20] -->
     <string name="category_sports">Sports</string>

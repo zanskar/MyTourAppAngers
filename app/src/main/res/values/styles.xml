@@ -11,14 +11,27 @@
 
     <!-- Style for a tab that displays a category name -->
     <style name="CategoryTab" parent="Widget.Design.TabLayout">
-        <item name="tabIndicatorColor">@android:color/white</item>
-        <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabIndicatorColor">@color/tabind</item>
+        <item name="tabSelectedTextColor">@color/selected</item>
         <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
     </style>
 
     <!-- Text appearance style for a category tab -->
     <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
-        <item name="android:textColor">#A8A19E</item>
+        <item name="android:textColor">@color/textcolor</item>
+        <item name="android:textSize">@dimen/tabtextsize</item>
+    </style>
+
+    <!-- Text styles for items -->
+    <style name="itemstyle">
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:textColor">@color/textcolor</item>
+    </style>
+    <!-- Titles styles for items -->
+    <style name="titlestyle">
+        <item name="android:textSize">@dimen/titletextsize</item>
+        <item name="android:textColor">@color/titlecolor</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
 </resources>

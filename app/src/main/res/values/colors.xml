@@ -2,5 +2,10 @@
 <resources>
     <color name="colorPrimary">#05ca5e</color>
     <color name="colorPrimaryDark">#075e15</color>
-    <color name="colorAccent">#f59d21</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="tabind">#faa906</color>
+    <color name="selected">#faa906</color>
+    <color name="textcolor">#1e1e1e</color>
+    <color name="back">#fff</color>
+    <color name="titlecolor">#05ca5e</color>
 </resources>
