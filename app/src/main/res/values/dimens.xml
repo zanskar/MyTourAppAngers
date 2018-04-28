@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Height of each list item -->
-    <dimen name="list_item_height">90dp</dimen>
+    <dimen name="list_item_height">115dp</dimen>
     <!-- Text sizes-->
-    <dimen name="tabtextsize">10sp</dimen>
+    <dimen name="tabtextsize">11sp</dimen>
     <dimen name="titletextsize">13sp</dimen>
-    <dimen name="textsize">11sp</dimen>
+    <dimen name="textsize">12sp</dimen>
     <!-- Photo margin-->
     <dimen name="photomargin">10dp</dimen>
+    <!-- Text margin-->
+    <dimen name="textmargin">10dp</dimen>
 </resources>

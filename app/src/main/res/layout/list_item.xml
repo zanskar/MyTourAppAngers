@@ -10,7 +10,9 @@
         android:id="@+id/image"
         android:layout_width="@dimen/list_item_height"
         android:layout_height="@dimen/list_item_height"
-        android:layout_margin="@dimen/photomargin" />
+        android:layout_marginBottom="@dimen/photomargin"
+        android:layout_marginLeft="@dimen/photomargin"
+        android:layout_marginTop="@dimen/photomargin" />
 
     <RelativeLayout
         android:id="@+id/text_container"
@@ -36,7 +38,7 @@
             android:id="@+id/site_address_text_view"
             style="@style/itemstyle"
             android:layout_width="match_parent"
-            android:layout_height="25dp"
+            android:layout_height="40dp"
             android:layout_below="@id/site_name_text_view"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"
@@ -46,7 +48,7 @@
             android:id="@+id/site_description_text_view"
             style="@style/itemstyle"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="40dp"
             android:layout_below="@id/site_address_text_view"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"

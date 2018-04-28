@@ -24,14 +24,13 @@ public class SportsFragment extends Fragment {
 
         // Create a list of sites
         final ArrayList<Site> sites = new ArrayList<Site>();
-        sites.add(new Site(R.string.name_sport_1, R.string.address_sport_1, R.string.description_sport_1,
-                R.drawable.placeholder));
-        sites.add(new Site(R.string.name_sport_2, R.string.address_sport_2, R.string.description_sport_2,
-                R.drawable.placeholder));
-        sites.add(new Site(R.string.name_sport_3, R.string.address_sport_3, R.string.description_sport_3,
-                R.drawable.placeholder));
-        sites.add(new Site(R.string.name_sport_4, R.string.address_sport_4, R.string.description_sport_4,
-                R.drawable.placeholder));
+        sites.add(new Site(R.string.name_sport_1, R.string.address_sport_1, R.string.description_sport_1));
+        sites.add(new Site(R.string.name_sport_2, R.string.address_sport_2, R.string.description_sport_2));
+        sites.add(new Site(R.string.name_sport_3, R.string.address_sport_3, R.string.description_sport_3));
+        sites.add(new Site(R.string.name_sport_4, R.string.address_sport_4, R.string.description_sport_4));
+        sites.add(new Site(R.string.name_sport_5, R.string.address_sport_5, R.string.description_sport_5));
+        sites.add(new Site(R.string.name_sport_6, R.string.address_sport_6, R.string.description_sport_6));
+        sites.add(new Site(R.string.name_sport_7, R.string.address_sport_7, R.string.description_sport_7));
 
         // Create an {@link SiteAdapter}, whose data source is a list of {@link Site}s. The
         // adapter knows how to create list items for each item in the list.

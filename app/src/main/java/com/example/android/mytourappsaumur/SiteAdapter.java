@@ -34,7 +34,6 @@ public class SiteAdapter extends ArrayAdapter<Site> {
             listItemView = LayoutInflater.from(getContext()).inflate(
                     R.layout.list_item, parent, false);
         }
-
         // Get the {@link Site} object located at this position in the list
         Site currentSite = getItem(position);
 
@@ -69,8 +68,6 @@ public class SiteAdapter extends ArrayAdapter<Site> {
             // Otherwise hide the ImageView (set visibility to GONE)
             imageView.setVisibility(View.GONE);
         }
-
-
         // Return the whole list item layout (containing 3 TextViews) so that it can be shown in
         // the ListView.
         return listItemView;

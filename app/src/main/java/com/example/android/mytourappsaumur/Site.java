@@ -8,26 +8,25 @@ package com.example.android.mytourappsaumur;
 public class Site {
 
     /**
+     * Constant value that represents no image was provided for this word
+     */
+    private static final int NO_IMAGE_PROVIDED = -1;
+    /**
      * String resource ID for the Name of the site
      */
     private int mSiteNameId;
-
     /**
      * String resource ID for the Address of the site
      */
     private int mSiteAddressId;
-
     /**
      * String resource ID for the Description of the site
      */
     private int mSiteDescriptionId;
-
-
-    /** Image resource ID for the site */
+    /**
+     * Image resource ID for the site
+     */
     private int mImageResourceId = NO_IMAGE_PROVIDED;
-
-    /** Constant value that represents no image was provided for this word */
-    private static final int NO_IMAGE_PROVIDED = -1;
 
 
     /**
@@ -44,6 +43,7 @@ public class Site {
         mSiteDescriptionId = siteDescriptionId;
         mImageResourceId = imageResourceId;
     }
+
     /**
      * Create a new Site object.
      *
@@ -56,12 +56,14 @@ public class Site {
         mSiteAddressId = siteAddressId;
         mSiteDescriptionId = siteDescriptionId;
     }
+
     /**
      * Returns whether or not there is an image for this word.
      */
     public boolean hasImage() {
         return mImageResourceId != NO_IMAGE_PROVIDED;
     }
+
     /**
      * Return the image resource ID of the site
      */
@@ -89,7 +91,6 @@ public class Site {
     public int getSiteDescriptionId() {
         return mSiteDescriptionId;
     }
-
 
 
 }

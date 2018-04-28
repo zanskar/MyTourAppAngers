@@ -4,7 +4,7 @@
     <string name="category_monuments">Monuments</string>
 
     <!-- Category name for restaurants [CHAR LIMIT=20] -->
-    <string name="category_restaurants">Eating</string>
+    <string name="category_restaurants">Restaurants</string>
 
     <!-- Category name for sports [CHAR LIMIT=20] -->
     <string name="category_sports">Sports</string>
@@ -75,7 +75,7 @@
     <!-- Name for monument 8 -->
     <string name="name_monument_8">Pincé Museum</string>
     <!-- Name for monument 9 -->
-    <string name="name_monument_9">David d'Angers Museum</string>
+    <string name="name_monument_9">David d\' Angers Museum</string>
 
     <!-- Address for monument 1 -->
     <string name="address_monument_1">2 Promenade du Bout du Monde, 49100 Angers</string>
@@ -95,7 +95,6 @@
     <string name="address_monument_8">4 Rue Saint-Christophe, 49100 Angers</string>
     <!-- Address for monument 9 -->
     <string name="address_monument_9">33Bis Rue Toussaint, 49100 Angers</string>
-
 
     <!-- Description for monument 1 -->
     <string name="description_monument_1">IXth century fortress</string>
@@ -117,56 +116,92 @@
     <string name="description_monument_9">Museum of sculpture in a chapel</string>
 
     <!-- Name for sport 1 -->
-    <string name="name_sport_1">Name sport 1</string>
+    <string name="name_sport_1">Aquavita - Swimming pool and spa</string>
     <!-- Name for sport 2 -->
-    <string name="name_sport_2">Name sport 2</string>
+    <string name="name_sport_2">Skating rink</string>
     <!-- Name for sport 3 -->
-    <string name="name_sport_3">Name sport 3</string>
+    <string name="name_sport_3">Tennis Central Court</string>
     <!-- Name for sport 4 -->
-    <string name="name_sport_4">Name sport 4</string>
+    <string name="name_sport_4">Skate Park</string>
+    <!-- Name for sport 5 -->
+    <string name="name_sport_5">Raymond Kopa Stadium</string>
+    <!-- Name for sport 6 -->
+    <string name="name_sport_6">Lake and Leisure Park</string>
+    <!-- Name for sport 7 -->
+    <string name="name_sport_7">Bowling alley</string>
 
     <!-- Address for sport 1 -->
-    <string name="address_sport_1">Address sport 1</string>
+    <string name="address_sport_1">1 Place AquaVita 49000 Angers</string>
     <!-- Address for sport 2 -->
-    <string name="address_sport_2">Address sport 2</string>
+    <string name="address_sport_2">6 Allée du Haras 49100 Angers</string>
     <!-- Address for sport 3 -->
-    <string name="address_sport_3">Address sport 3</string>
+    <string name="address_sport_3">Boulevard Marc Leclerc 49000 Angers</string>
     <!-- Address for sport 4 -->
-    <string name="address_sport_4">Address sport 4</string>
+    <string name="address_sport_4">Boulevard Marc Leclerc 49000 Angers</string>
+    <!-- Address for sport 5 -->
+    <string name="address_sport_5">Boulevard Pierre de Coubertin 49000 Angers</string>
+    <!-- Address for sport 6 -->
+    <string name="address_sport_6">Avenue du Lac de Maine 49000 Angers</string>
+    <!-- Address for sport 7 -->
+    <string name="address_sport_7">Boulevard Marc Leclerc 49000 Angers</string>
 
     <!-- Description for sport 1 -->
-    <string name="description_sport_1">Description sport 1</string>
+    <string name="description_sport_1">Price range : €€ </string>
     <!-- Description for sport 2 -->
-    <string name="description_sport_2">Description sport 2</string>
+    <string name="description_sport_2">Price range : €€ </string>
     <!-- Description for sport 3 -->
-    <string name="description_sport_3">Description sport 3</string>
+    <string name="description_sport_3">Price range : €€€ </string>
     <!-- Description for sport 4 -->
-    <string name="description_sport_4">Description sport 4</string>
+    <string name="description_sport_4">Price range : free </string>
+    <!-- Description for sport 5 -->
+    <string name="description_sport_5">Price range : €€€ </string>
+    <!-- Description for sport 6 -->
+    <string name="description_sport_6">Price range : free </string>
+    <!-- Description for sport 7 -->
+    <string name="description_sport_7">Price range : € </string>
 
     <!-- Name for parks 1 -->
-    <string name="name_parks_1">Name parks 1</string>
+    <string name="name_parks_1">Garden of Plants</string>
     <!-- Name for parks 2 -->
-    <string name="name_parks_2">Name parks 2</string>
+    <string name="name_parks_2">Balzac Park</string>
     <!-- Name for parks 3 -->
-    <string name="name_parks_3">Name parks 3</string>
+    <string name="name_parks_3">St Nicolas Lake</string>
     <!-- Name for parks 4 -->
-    <string name="name_parks_4">Name parks 4</string>
+    <string name="name_parks_4">Gaston Allard Arboretum</string>
+    <!-- Name for parks 5 -->
+    <string name="name_parks_5">Garenne Park</string>
+    <!-- Name for parks 6 -->
+    <string name="name_parks_6">Terra Botanica</string>
+    <!-- Name for parks 7 -->
+    <string name="name_parks_7">Pinetree Park</string>
 
     <!-- Address for parks 1 -->
-    <string name="address_parks_1">Address parks 1</string>
+    <string name="address_parks_1">39 Rue Boreau, 49100 Angers</string>
     <!-- Address for parks 2 -->
-    <string name="address_parks_2">Address parks 2</string>
+    <string name="address_parks_2">Boulevard du Bon Pasteur, 49000 Angers</string>
     <!-- Address for parks 3 -->
-    <string name="address_parks_3">Address parks 3</string>
+    <string name="address_parks_3">Angers and Avrillé</string>
     <!-- Address for parks 4 -->
-    <string name="address_parks_4">Address parks 4</string>
+    <string name="address_parks_4">9 Rue du Château d\' Orgemont, 49000 Angers</string>
+    <!-- Address for parks 5 -->
+    <string name="address_parks_5">Boulevard Albert Camus, 49100 Angers</string>
+    <!-- Address for parks 6 -->
+    <string name="address_parks_6">Route d\' Epinard, 49000 Angers</string>
+    <!-- Address for parks 7 -->
+    <string name="address_parks_7">1 Rue du Pin, 49000 Angers</string>
 
     <!-- Description for parks 1 -->
-    <string name="description_parks_1">Description parks 1</string>
+    <string name="description_parks_1">Botanical garden</string>
     <!-- Description for parks 2 -->
-    <string name="description_parks_2">Description parks 2</string>
+    <string name="description_parks_2">Family gardens and park</string>
     <!-- Description for sport 3 -->
-    <string name="description_parks_3">Description parks 3</string>
+    <string name="description_parks_3">Lake, running park</string>
     <!-- Description for sport 4 -->
-    <string name="description_parks_4">Description parks 4</string>
+    <string name="description_parks_4">Arboretum</string>
+    <!-- Description for parks 5 -->
+    <string name="description_parks_5">Park</string>
+    <!-- Description for sport 6 -->
+    <string name="description_parks_6">Vegetal theme park</string>
+    <!-- Description for sport 7 -->
+    <string name="description_parks_7">Park of the Pinetree castle</string>
 </resources>
