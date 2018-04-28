@@ -13,31 +13,50 @@
     <string name="category_parks">Parks</string>
 
     <!-- Name for restaurant 1 -->
-    <string name="name_restaurant_1">Name Resto 1</string>
+    <string name="name_restaurant_1">Provence Caffe</string>
     <!-- Name for restaurant 2 -->
-    <string name="name_restaurant_2">Name Resto 2</string>
+    <string name="name_restaurant_2">Le Relais</string>
     <!-- Name for restaurant 3 -->
-    <string name="name_restaurant_3">Name Resto 3</string>
+    <string name="name_restaurant_3">L\' Authentic</string>
     <!-- Name for restaurant 4 -->
-    <string name="name_restaurant_4">Name Resto 4</string>
+    <string name="name_restaurant_4">La Salamandre</string>
+    <!-- Name for restaurant 5 -->
+    <string name="name_restaurant_5">Le Favre d\' Anne</string>
+    <!-- Name for restaurant 6 -->
+    <string name="name_restaurant_6">La Ferme</string>
+    <!-- Name for restaurant 7 -->
+    <string name="name_restaurant_7">L\' Entracte</string>
 
     <!-- Address for restaurant 1 -->
-    <string name="address_restaurant_1">Address Resto 1</string>
+    <string name="address_restaurant_1">9 Place du Ralliement, 49100 Angers</string>
     <!-- Address for restaurant 2 -->
-    <string name="address_restaurant_2">Address Resto 2</string>
+    <string name="address_restaurant_2">9 Rue de la Gare, 49100 Angers</string>
     <!-- Address for restaurant 3 -->
-    <string name="address_restaurant_3">Address Resto 3</string>
+    <string name="address_restaurant_3">10 Rue Hoche, 49100 Angers</string>
     <!-- Address for restaurant 4 -->
-    <string name="address_restaurant_4">Address Resto 4</string>
+    <string name="address_restaurant_4">1 Boulevard du Maréchal Foch, 49100 Angers</string>
+    <!-- Address for restaurant 5 -->
+    <string name="address_restaurant_5">21 Boulevard du Maréchal Foch, 49100 Angers</string>
+    <!-- Address for restaurant 6 -->
+    <string name="address_restaurant_6">2 Place Freppel, 49100 Angers</string>
+    <!-- Address for restaurant 7 -->
+    <string name="address_restaurant_7">9 Rue Louis de Romain, 49100 Angers</string>
+
 
     <!-- Description for restaurant 1 -->
-    <string name="description_restaurant_1">Description Resto 1</string>
+    <string name="description_restaurant_1">Seafood and traditional restaurant</string>
     <!-- Description for restaurant 2 -->
-    <string name="description_restaurant_2">Description Resto 2</string>
+    <string name="description_restaurant_2">Chic bistro</string>
     <!-- Description for restaurant 3 -->
-    <string name="description_restaurant_3">Description Resto 3</string>
+    <string name="description_restaurant_3">Country restaurant - fouaces</string>
     <!-- Description for restaurant 4 -->
-    <string name="description_restaurant_4">Description Resto 4</string>
+    <string name="description_restaurant_4">Gastronomic restaurant</string>
+    <!-- Description for restaurant 5 -->
+    <string name="description_restaurant_5">Gastronomic restaurant</string>
+    <!-- Description for restaurant 6 -->
+    <string name="description_restaurant_6">Traditional restaurant</string>
+    <!-- Description for restaurant 7 -->
+    <string name="description_restaurant_7">Traditional restaurant</string>
 
     <!-- Name for monument 1  -->
     <string name="name_monument_1">Angers Castle</string>

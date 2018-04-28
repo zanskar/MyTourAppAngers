@@ -28,7 +28,6 @@
             style="@style/titlestyle"
             android:layout_width="match_parent"
             android:layout_height="35dp"
-            android:layout_weight="1"
             android:gravity="bottom"
             android:textAppearance="?android:textAppearanceMedium"
             tools:text="site" />
@@ -39,7 +38,6 @@
             android:layout_width="match_parent"
             android:layout_height="25dp"
             android:layout_below="@id/site_name_text_view"
-            android:layout_weight="1"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"
             tools:text="address" />
@@ -50,7 +48,6 @@
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:layout_below="@id/site_address_text_view"
-            android:layout_weight="1"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"
             tools:text="description" />

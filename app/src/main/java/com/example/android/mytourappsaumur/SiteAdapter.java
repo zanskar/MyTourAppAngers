@@ -59,10 +59,17 @@ public class SiteAdapter extends ArrayAdapter<Site> {
         // Find the ImageView in the list_item.xml layout with the ID image.
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
 
-        //Display the provided image based on the resource ID
-        imageView.setImageResource(currentSite.getImageResourceId());
-        // Make sure the view is visible
-        imageView.setVisibility(View.VISIBLE);
+        // Check if an image is provided for this word or not
+        if (currentSite.hasImage()) {
+            // If an image is available, display the provided image based on the resource ID
+            imageView.setImageResource(currentSite.getImageResourceId());
+            // Make sure the view is visible
+            imageView.setVisibility(View.VISIBLE);
+        } else {
+            // Otherwise hide the ImageView (set visibility to GONE)
+            imageView.setVisibility(View.GONE);
+        }
+
 
         // Return the whole list item layout (containing 3 TextViews) so that it can be shown in
         // the ListView.
