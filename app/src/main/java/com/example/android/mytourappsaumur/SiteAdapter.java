@@ -38,25 +38,25 @@ public class SiteAdapter extends ArrayAdapter<Site> {
         Site currentSite = getItem(position);
 
         // Find the TextView in the list_item.xml layout with the ID site_name_text_view.
-        TextView siteNameTextView = (TextView) listItemView.findViewById(R.id.site_name_text_view);
+        TextView siteNameTextView = listItemView.findViewById(R.id.site_name_text_view);
         // Get the Site Name from the currentSite object and set this text on
         // the Site Name TextView.
         siteNameTextView.setText(currentSite.getSiteNameId());
 
         // Find the TextView in the list_item.xml layout with the ID site_address_text_view.
-        TextView siteAddressTextView = (TextView) listItemView.findViewById(R.id.site_address_text_view);
+        TextView siteAddressTextView = listItemView.findViewById(R.id.site_address_text_view);
         // Get the Site Address from the currentSite object and set this text on
         // the Site Address TextView.
         siteAddressTextView.setText(currentSite.getSiteAddressId());
 
         // Find the TextView in the list_item.xml layout with the ID site_description_text_view.
-        TextView siteDescriptionTextView = (TextView) listItemView.findViewById(R.id.site_description_text_view);
+        TextView siteDescriptionTextView = listItemView.findViewById(R.id.site_description_text_view);
         // Get the Site Description from the currentSite object and set this text on
         // the Site Description TextView.
         siteDescriptionTextView.setText(currentSite.getSiteDescriptionId());
 
         // Find the ImageView in the list_item.xml layout with the ID image.
-        ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
+        ImageView imageView = listItemView.findViewById(R.id.image);
 
         // Check if an image is provided for this word or not
         if (currentSite.hasImage()) {
